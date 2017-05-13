@@ -1,0 +1,8 @@
+/* Instructions to play the game */
+
+1. You'll be provied with a random RGB color combo
+
+2. Now you just need to identify the right one out of nine random colors.
+
+
+And that's it!!!
